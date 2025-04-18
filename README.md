@@ -1,5 +1,9 @@
-# Vue 3 + Vite
+前端# Vue 3 + Vite
+后端#node.js
+数据库#mysql
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+本项目所用素材均来源于网络，如需声明请联系本人
+本项目仅用于个人学习与应用，项目一切功能均由本人思考所得(如有类似，纯属巧合)
+本项目不得用于商业盈利，如有所需，请获得本人授权后使用
+本项目源码由本人与AI合作完成，不存在第三方
+本人Email:2976659847@qq.com
