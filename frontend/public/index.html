@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+</head>
+<body>
+    <div id="app">
+        <!-- 挂载Login组件 -->
+        <login></login>
+    </div>
+
+    <script>
+        // 创建Vue实例并挂载Login组件
+        new Vue({
+            el: '#app',
+            components: {
+                'login': Login
+            }
+        });
+    </script>
+</body>
+</html>
